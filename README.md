@@ -114,20 +114,4 @@ O relatório tem duas páginas, feitas para **verificar as informações e poss�
 
 ---
 
-## ▶️ Como reproduzir
 
-1. Rode `sql/script_company_completo.sql` no MySQL (Workbench ou linha de comando).
-2. Instale o [MySQL Connector/NET](https://dev.mysql.com/downloads/connector/net/).
-3. Abra `desafio_company.pbix` no Power BI Desktop. Se o servidor for diferente de `localhost`, ajuste em **Transformar dados → Configurações da fonte de dados**.
-4. Informe usuário e senha do MySQL e clique em **Atualizar**.
-
----
-
-## 🧰 Tecnologias
-
-- MySQL 8.0 + MySQL Workbench
-- Power BI Desktop + Power Query (linguagem M)
-
----
-
-Feito por **Felipe** como parte da formação Power BI Analyst da [DIO](https://www.dio.me/). 🚀
